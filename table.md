@@ -1,5 +1,5 @@
-|attribute | description                                                                                                                               |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------|                                                                                                                              |
+|attribute      | description                                                                                                                          |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------|   
 | FIT-101       | Sensor Flow meter; Measures inflow into raw water tank|                                                                              |
 | LIT-101       | Sensor Level Transmitter; Raw water tank level                                                                                       |
 | MV-101        | Actuator Motorized valve; Controls water flow to the raw water tank                                                                  |
